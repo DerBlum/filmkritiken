@@ -1,6 +1,29 @@
 [
     {
         "filmbewertungDetails": {
+            "beitragvon": "Stefan",
+            "besprochenam": "2021-04-24T12:00:00.000Z"
+        },
+        "film": {
+            "titel": "John Wick",
+            "image": {
+                "source": "JohnWick.jpg",
+                "copyright": "IMDb"
+            },
+            "details": {
+                "altersfreigabe": 16,
+                "erscheinungsjahr": "2015-01-01T12:00:00.000Z",
+                "regie": "	Chad Stahelski, David Leitch",
+                "laenge": 101,
+                "originaltitel": "John Wick",
+                "originalsprache": "Englisch",
+                "produktionsland": "Vereinigte Staaten"
+            }
+        },
+        "bewertungen": [
+        ]
+    },{
+        "filmbewertungDetails": {
             "beitragvon": "Nico",
             "besprochenam": "2021-04-17T12:00:00.000Z"
         },
