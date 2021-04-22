@@ -13,7 +13,7 @@
             "details": {
                 "altersfreigabe": 16,
                 "erscheinungsjahr": "2015-01-01T12:00:00.000Z",
-                "regie": "	Chad Stahelski, David Leitch",
+                "regie": "Chad Stahelski, David Leitch",
                 "laenge": 101,
                 "originaltitel": "John Wick",
                 "originalsprache": "Englisch",
@@ -21,8 +21,13 @@
             }
         },
         "bewertungen": [
+            {
+                "von": "-",
+                "wertung": 0
+            },
         ]
-    },{
+    },
+    {
         "filmbewertungDetails": {
             "beitragvon": "Nico",
             "besprochenam": "2021-04-17T12:00:00.000Z"
