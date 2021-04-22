@@ -20,28 +20,7 @@
                 "produktionsland": "Vereinigte Staaten"
             }
         },
-        "bewertungen": [
-            {
-                "von": "Dani",
-                "wertung": 0
-            },
-            {
-                "von": "Flo",
-                "wertung": 0
-            },
-            {
-                "von": "Nico",
-                "wertung": 0
-            },
-            {
-                "von": "Stefan",
-                "wertung": 0
-            },
-            {
-                "von": "Tiffy",
-                "wertung": 0
-            }
-        ]
+        "bewertungen": []
     },
     {
         "filmbewertungDetails": {
