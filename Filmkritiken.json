@@ -15,7 +15,6 @@
                 "erscheinungsjahr": "2014-01-01T12:00:00.000Z",
                 "regie": "Chad Stahelski, David Leitch",
                 "laenge": 101,
-                "originaltitel": "John Wick",
                 "originalsprache": "Englisch",
                 "produktionsland": "Vereinigte Staaten"
             }
@@ -40,7 +39,7 @@
                 "laenge": 107,
                 "originaltitel": "Falling Down",
                 "originalsprache": "Englisch",
-                "produktionsland": "Vereinigte Staaten, Frankreich, Großbritannien"
+                "produktionsland": "Vereinigte Staaten, Frankreich, Vereinigtes Königreich"
             }
         },
         "bewertungen": [
@@ -82,7 +81,6 @@
                 "erscheinungsjahr": "2016-01-01T12:00:00.000Z",
                 "regie": "Damien Chazelle",
                 "laenge": 128,
-                "originaltitel": "La La Land",
                 "originalsprache": "Englisch",
                 "produktionsland": "Vereinigte Staaten"
             }
@@ -130,7 +128,6 @@
                 "erscheinungsjahr": "2009-01-01T12:00:00.000Z",
                 "regie": "Gaspar Noé",
                 "laenge": 161,
-                "originaltitel": "Enter the Void",
                 "originalsprache": "Englisch, Japanisch",
                 "produktionsland": "Frankreich, Japan, Kanada"
             }
@@ -167,7 +164,7 @@
             "titel": "Chihiros Reise ins Zauberland",
             "image": {
                 "source": "chihiro.jpg",
-                "copyright": "© Constantin Film"
+                "copyright": "IMDb"
             },
             "details": {
                 "altersfreigabe": 0,
@@ -199,6 +196,230 @@
             {
                 "von": "Tiffy",
                 "wertung": 9
+            }
+        ]
+    },
+    {
+        "filmbewertungDetails": {
+            "beitragvon": "Stefan",
+            "besprochenam": "2021-03-21T12:00:00.000Z"
+        },
+        "film": {
+            "titel": "The Room",
+            "image": {
+                "source": "TheRoom.jpg",
+                "copyright": "IMDb"
+            },
+            "details": {
+                "erscheinungsjahr": "2003-01-01T12:00:00.000Z",
+                "regie": "Tommy Wiseau",
+                "laenge": 99,
+                "originalsprache": "Englisch",
+                "produktionsland": "Vereinigte Staaten"
+            }
+        },
+        "bewertungen": [
+            {
+                "von": "Dani",
+                "wertung": 1
+            },
+            {
+                "von": "Flo",
+                "wertung": 1
+            },
+            {
+                "von": "Nico",
+                "wertung": 1
+            },
+            {
+                "von": "Stefan",
+                "wertung": 2
+            },
+            {
+                "von": "Tiffy",
+                "wertung": 1
+            }
+        ]
+    },
+    {
+        "filmbewertungDetails": {
+            "beitragvon": "Nico",
+            "besprochenam": "2021-03-13T12:00:00.000Z"
+        },
+        "film": {
+            "titel": "OSS 117 - Der Spion der sich liebte",
+            "image": {
+                "source": "oss117derspion.jpg",
+                "copyright": "IMDb"
+            },
+            "details": {
+                "altersfreigabe": 12,
+                "erscheinungsjahr": "2006-01-01T12:00:00.000Z",
+                "regie": "Michel Hazanavicius",
+                "laenge": 99,
+                "originaltitel": "OSS 117: Le Caire nid d’espions",
+                "originalsprache": "Französisch",
+                "produktionsland": "Frankreich"
+            }
+        },
+        "bewertungen": [
+            {
+                "von": "Dani",
+                "wertung": 5
+            },
+            {
+                "von": "Flo",
+                "wertung": 5
+            },
+            {
+                "von": "Jana",
+                "wertung": 6
+            },
+            {
+                "von": "Nico",
+                "wertung": 10
+            },
+            {
+                "von": "Stefan",
+                "wertung": 4
+            },
+            {
+                "von": "Tiffy",
+                "wertung": 4
+            }
+        ]
+    },
+    {
+        "filmbewertungDetails": {
+            "beitragvon": "Tiffy",
+            "besprochenam": "2021-03-06T12:00:00.000Z"
+        },
+        "film": {
+            "titel": "Der rosarote Panther 2",
+            "image": {
+                "source": "DerRosarotePanther2.jpg",
+                "copyright": "IMDb"
+            },
+            "details": {
+                "altersfreigabe": 6,
+                "erscheinungsjahr": "2009-01-01T12:00:00.000Z",
+                "regie": "Harald Zwart",
+                "laenge": 92,
+                "originaltitel": "The Pink Panther 2",
+                "originalsprache": "Englisch",
+                "produktionsland": "Vereinigte Staaten"
+            }
+        },
+        "bewertungen": [
+            {
+                "von": "Dani",
+                "wertung": 5
+            },
+            {
+                "von": "Flo",
+                "wertung": 5
+            },
+            {
+                "von": "Jana",
+                "wertung": 7
+            },
+            {
+                "von": "Nico",
+                "wertung": 6
+            },
+            {
+                "von": "Stefan",
+                "wertung": 5
+            },
+            {
+                "von": "Tiffy",
+                "wertung": 5
+            }
+        ]
+    },
+    {
+        "filmbewertungDetails": {
+            "beitragvon": "Dani",
+            "besprochenam": "2021-02-27T12:00:00.000Z"
+        },
+        "film": {
+            "titel": "12 Years a Slave",
+            "image": {
+                "source": "12YearsASlave.jpg",
+                "copyright": "IMDb"
+            },
+            "details": {
+                "altersfreigabe": 12,
+                "erscheinungsjahr": "2013-01-01T12:00:00.000Z",
+                "regie": "Steve McQueen",
+                "laenge": 134,
+                "originalsprache": "Englisch",
+                "produktionsland": "Vereinigte Staaten, Vereinigtes Königreich"
+            }
+        },
+        "bewertungen": [
+            {
+                "von": "Dani",
+                "wertung": 10
+            },
+            {
+                "von": "Flo",
+                "wertung": 8
+            },
+            {
+                "von": "Nico",
+                "wertung": 8
+            },
+            {
+                "von": "Stefan",
+                "wertung": 8
+            },
+            {
+                "von": "Tiffy",
+                "wertung": 8
+            }
+        ]
+    },
+    {
+        "filmbewertungDetails": {
+            "beitragvon": "Flo",
+            "besprochenam": "2021-02-20T12:00:00.000Z"
+        },
+        "film": {
+            "titel": "Gangs of New York",
+            "image": {
+                "source": "GangsOfNewYork.jpg",
+                "copyright": "IMDb"
+            },
+            "details": {
+                "altersfreigabe": 16,
+                "erscheinungsjahr": "2002-01-01T12:00:00.000Z",
+                "regie": "Martin Scorsese",
+                "laenge": 160,
+                "originalsprache": "Englisch",
+                "produktionsland": "Vereinigte Staaten, Italien"
+            }
+        },
+        "bewertungen": [
+            {
+                "von": "Dani",
+                "wertung": 6
+            },
+            {
+                "von": "Flo",
+                "wertung": 6
+            },
+            {
+                "von": "Nico",
+                "wertung": 4
+            },
+            {
+                "von": "Stefan",
+                "wertung": 6
+            },
+            {
+                "von": "Tiffy",
+                "wertung": 6
             }
         ]
     }
