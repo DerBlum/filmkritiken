@@ -1,6 +1,27 @@
 [
     {
         "filmbewertungDetails": {
+            "beitragvon": "Flo",
+            "besprochenam": "2021-05-02T12:00:00.000Z"
+        },
+        "film": {
+            "titel": "Operation Naked",
+            "image": {
+                "source": "OperationNaked.jpg",
+                "copyright": "IMDb"
+            },
+            "details": {
+                "erscheinungsjahr": "2016-01-01T12:00:00.000Z",
+                "regie": "Mario Sixtus",
+                "laenge": 50,
+                "originalsprache": "Deutsch",
+                "produktionsland": "Deutschland"
+            }
+        },
+        "bewertungen": []
+    },
+    {
+        "filmbewertungDetails": {
             "beitragvon": "Stefan",
             "besprochenam": "2021-04-24T12:00:00.000Z"
         },
