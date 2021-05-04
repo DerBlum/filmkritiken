@@ -1,6 +1,28 @@
 [
     {
         "filmbewertungDetails": {
+            "beitragvon": "Dani",
+            "besprochenam": "2021-05-09T12:00:00.000Z"
+        },
+        "film": {
+            "titel": "Mystic River",
+            "image": {
+                "source": "MysticRiver.jpg",
+                "copyright": "IMDb"
+            },
+            "details": {
+                "erscheinungsjahr": "2003-01-01T12:00:00.000Z",
+                "regie": "Clint Eastwood",
+                "laenge": 138,
+                "originalsprache": "Englisch",
+                "produktionsland": "Vereinigte Staaten",
+                "altersfreigabe": 16
+            }
+        },
+        "bewertungen": []
+    },
+    {
+        "filmbewertungDetails": {
             "beitragvon": "Flo",
             "besprochenam": "2021-05-02T12:00:00.000Z"
         },
@@ -18,7 +40,28 @@
                 "produktionsland": "Deutschland"
             }
         },
-        "bewertungen": []
+        "bewertungen": [
+            {
+                "von": "Dani",
+                "wertung": 2
+            },
+            {
+                "von": "Flo",
+                "wertung": 8
+            },
+            {
+                "von": "Nico",
+                "wertung": 4
+            },
+            {
+                "von": "Stefan",
+                "wertung": 6
+            },
+            {
+                "von": "Tiffy",
+                "wertung": 6
+            }
+        ]
     },
     {
         "filmbewertungDetails": {
