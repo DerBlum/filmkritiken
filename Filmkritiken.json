@@ -19,7 +19,28 @@
                 "altersfreigabe": 16
             }
         },
-        "bewertungen": []
+        "bewertungen": [
+            {
+                "von": "Dani",
+                "wertung": 6
+            },
+            {
+                "von": "Flo",
+                "wertung": 5
+            },
+            {
+                "von": "Nico",
+                "wertung": 7
+            },
+            {
+                "von": "Stefan",
+                "wertung": 6
+            },
+            {
+                "von": "Tiffy",
+                "wertung": 4
+            }
+        ]
     },
     {
         "filmbewertungDetails": {
