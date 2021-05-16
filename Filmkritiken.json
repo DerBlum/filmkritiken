@@ -19,7 +19,29 @@
                 "produktionsland": "Vereinigte Staaten",
                 "altersfreigabe": 16
             }
-        }
+        },
+        "bewertungen": [
+            {
+                "von": "Dani",
+                "wertung": 4
+            },
+            {
+                "von": "Flo",
+                "wertung": 7
+            },
+            {
+                "von": "Nico",
+                "wertung": 4
+            },
+            {
+                "von": "Stefan",
+                "wertung": 7
+            },
+            {
+                "von": "Tiffy",
+                "wertung": 7
+            }
+        ]
     },
     {
         "filmbewertungDetails": {
