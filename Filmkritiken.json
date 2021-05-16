@@ -1,6 +1,27 @@
 [
     {
         "filmbewertungDetails": {
+            "beitragvon": "Tiffy",
+            "besprochenam": "2021-05-16T12:00:00.000Z"
+        },
+        "film": {
+            "titel": "Es",
+            "image": {
+                "source": "Es.jpg",
+                "copyright": "IMDb"
+            },
+            "details": {
+                "erscheinungsjahr": "2017-01-01T12:00:00.000Z",
+                "regie": "Andrés Muschietti",
+                "laenge": 135,
+                "originalsprache": "Englisch",
+                "produktionsland": "Vereinigte Staaten",
+                "altersfreigabe": 16
+            }
+        }
+    },
+    {
+        "filmbewertungDetails": {
             "beitragvon": "Dani",
             "besprochenam": "2021-05-09T12:00:00.000Z"
         },
